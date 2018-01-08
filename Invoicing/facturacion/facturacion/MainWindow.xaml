@@ -1,0 +1,25 @@
+﻿<Window x:Class="Facturacion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Facturacion"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="750">
+    <Grid Margin="0,0,2,0" Background="#FFB4F5D2">
+        <Button x:Name="button" Content="ARTICULO" HorizontalAlignment="Left" Height="51" Margin="205,113,0,0" VerticalAlignment="Top" Width="127" RenderTransformOrigin="0.5,1" BorderThickness="5" FontSize="18.667" FontWeight="Bold" Click="button_Click" Foreground="#FFFFF0F0" Background="#FF0E0D0D"/>
+        <Button x:Name="button1" Content="DEPARTAMENTO" HorizontalAlignment="Left" Height="51" Margin="10,113,0,0" VerticalAlignment="Top" Width="179" RenderTransformOrigin="0.5,1" BorderThickness="5" FontSize="18.667" FontWeight="Bold" Click="button1_Click" Foreground="#FFFFF0F0" Background="#FF0E0D0D"/>
+        <Button x:Name="button2" Content="UNIDADES DE MEDIDA" HorizontalAlignment="Left" Height="51" Margin="337,113,0,0" VerticalAlignment="Top" Width="215" RenderTransformOrigin="0.5,1" BorderThickness="5" FontSize="18.667" FontWeight="Bold" Foreground="#FFFFF0F0" Background="#FF0E0D0D" Click="button2_Click"/>
+        <Button x:Name="button3" Content="PROVEEDOR" HorizontalAlignment="Left" Height="51" Margin="557,115,0,0" VerticalAlignment="Top" Width="127" RenderTransformOrigin="0.5,1" BorderThickness="5" FontSize="18.667" FontWeight="Bold" Foreground="#FFFFF0F0" Background="#FF0E0D0D" Click="button3_Click"/>
+        <Button x:Name="button4" Content="COMPRA" HorizontalAlignment="Left" Height="51" Margin="10,196,0,0" VerticalAlignment="Top" Width="179" RenderTransformOrigin="0.5,1" BorderThickness="5" FontSize="18.667" FontWeight="Bold" Click="button4_Click" Foreground="#FFFFF0F0" Background="#FF0E0D0D"/>
+        <Button x:Name="button5" Content="USUARIO" HorizontalAlignment="Left" Height="51" Margin="205,196,0,0" VerticalAlignment="Top" Width="127" RenderTransformOrigin="0.5,1" BorderThickness="5" FontSize="18.667" FontWeight="Bold" Click="button5_Click" Foreground="#FFFFF0F0" Background="#FF0E0D0D"/>
+        <Button x:Name="button6" Content="INTEGRAR" HorizontalAlignment="Left" Height="51" Margin="337,196,0,0" VerticalAlignment="Top" Width="215" RenderTransformOrigin="0.5,1" BorderThickness="5" FontSize="18.667" FontWeight="Bold" Foreground="#FFFFF0F0" Background="#FF0E0D0D" Click="button6_Click"/>
+        <Button x:Name="button7" Content="AYUDA" HorizontalAlignment="Left" Height="51" Margin="557,196,0,0" VerticalAlignment="Top" Width="127" RenderTransformOrigin="0.5,1" BorderThickness="5" FontSize="18.667" FontWeight="Bold" Foreground="#FFFFF0F0" Background="#FF0E0D0D"/>
+        <Label  x:Name="label" Content="MODULO DE COMPRA" HorizontalAlignment="Left" Margin="194,32,0,0" VerticalAlignment="Top" Height="63" Width="379" FontSize="26.667" FontFamily="Segoe UI Black" RenderTransformOrigin="0.776,5.027" Background="{x:Null}"/>
+        <Separator HorizontalAlignment="Left" Height="100" Margin="506,10,0,0" VerticalAlignment="Top" Width="208" Background="#FF172B6C"/>
+        <Separator HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="179" Background="#FF172B6C"/>
+        <Separator HorizontalAlignment="Left" Height="100" Margin="10,252,0,-18" VerticalAlignment="Top" Width="704" Background="#FF172B6C"/>
+    </Grid>
+
+
+</Window>

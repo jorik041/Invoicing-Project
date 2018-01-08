@@ -1,0 +1,9 @@
+c:\Users\Albert\documents\visual studio 2012\Projects\Datos\Negocio\bin\Debug\Negocio.dll
+c:\Users\Albert\documents\visual studio 2012\Projects\Datos\Negocio\bin\Debug\Negocio.pdb
+c:\Users\Albert\documents\visual studio 2012\Projects\Datos\Negocio\bin\Debug\Datos.dll
+c:\Users\Albert\documents\visual studio 2012\Projects\Datos\Negocio\bin\Debug\Entidades.dll
+c:\Users\Albert\documents\visual studio 2012\Projects\Datos\Negocio\bin\Debug\Datos.pdb
+c:\Users\Albert\documents\visual studio 2012\Projects\Datos\Negocio\bin\Debug\Entidades.pdb
+c:\Users\Albert\documents\visual studio 2012\Projects\Datos\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+c:\Users\Albert\documents\visual studio 2012\Projects\Datos\Negocio\obj\Debug\Negocio.dll
+c:\Users\Albert\documents\visual studio 2012\Projects\Datos\Negocio\obj\Debug\Negocio.pdb

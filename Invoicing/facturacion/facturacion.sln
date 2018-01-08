@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facturacion", "facturacion\facturacion.csproj", "{EDC2B554-EAE2-4B0B-A578-D01D950A7FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{385CEDF3-C3EE-43A0-93F1-234AF3BBE56F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{B206ED63-5D36-41EB-B958-F280A9217E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{ECB69820-C28C-49F4-A29D-588F0D111FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC2B554-EAE2-4B0B-A578-D01D950A7FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC2B554-EAE2-4B0B-A578-D01D950A7FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC2B554-EAE2-4B0B-A578-D01D950A7FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC2B554-EAE2-4B0B-A578-D01D950A7FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385CEDF3-C3EE-43A0-93F1-234AF3BBE56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385CEDF3-C3EE-43A0-93F1-234AF3BBE56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385CEDF3-C3EE-43A0-93F1-234AF3BBE56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385CEDF3-C3EE-43A0-93F1-234AF3BBE56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B206ED63-5D36-41EB-B958-F280A9217E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B206ED63-5D36-41EB-B958-F280A9217E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B206ED63-5D36-41EB-B958-F280A9217E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B206ED63-5D36-41EB-B958-F280A9217E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB69820-C28C-49F4-A29D-588F0D111FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB69820-C28C-49F4-A29D-588F0D111FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB69820-C28C-49F4-A29D-588F0D111FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB69820-C28C-49F4-A29D-588F0D111FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ccr8.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = facturacion\\facturacion.csproj
+		SccProjectName1 = facturacion
+		SccLocalPath1 = facturacion
+		SccProjectUniqueName2 = Datos\\Datos.csproj
+		SccProjectName2 = Datos
+		SccLocalPath2 = Datos
+		SccProjectUniqueName3 = Negocio\\Negocio.csproj
+		SccProjectName3 = Negocio
+		SccLocalPath3 = Negocio
+		SccProjectUniqueName4 = Entidades\\Entidades.csproj
+		SccProjectName4 = Entidades
+		SccLocalPath4 = Entidades
+	EndGlobalSection
+EndGlobal
