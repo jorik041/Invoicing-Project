@@ -1,5 +1,5 @@
-# PKStorePage
-This is a virtual store of a course that I did, named "Basic Web Design". built with HTML + CSS + JQuery + Materialize. this course is facilitated by vice-presidency from the Dominican Republic.
+# Invoicing Project
+This is a project CRUD built with C# + WPF + XAML 
 
 
 # Demo:
